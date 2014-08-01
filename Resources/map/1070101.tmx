@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="180" height="20" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="1070100" tilewidth="40" tileheight="40">
+  <image source="1070100.jpg" width="1040" height="800"/>
+ </tileset>
+ <tileset firstgid="521" name="2000" tilewidth="40" tileheight="40">
+  <image source="2000.png" width="40" height="40"/>
+ </tileset>
+ <layer name="floor1" width="180" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt29f7yGUAxmE/W5FdEUJGyQxlb7KjQdlZmcneVPaW7J2ZkVXZW8Mue69SoYyyd7d/4nv0HtzHn/Pnup6YWLFixSYOcYlHfBKQkEQ8xdMkJgnPkJRkJCcFKUlFap7lOZ4nDWmJCZ3QiaDzAulITwZeJCOZyMxLZCEr2cjOy7xCDl4lJ7nITR7yko/XyE+B0AmdiDoFeZ03KERhilCUYhSnBCUpRWnKUJZylKcCb1KRSlSmClWpRvXQCZ2IOm9Rg5q8zTu8y3vUojbv8wF1qEs96tOAhjTiQxrThKY0ozkf0SJ0QieiTkta0Zo2tOVj2vEJ7elARzrRmS50pRvd6UFPetGbPvTlUz7j89AJnYg6/ejPAAYyiMEMYSjDGM4IRjKK0XzBGL5kLOMYzwQmMonJTGFq6IRORJ1pTGcGM/mKWcxmDnOZx3y+ZgELWcRivmEJS1nGclbwLd/xPStDJ3Qi6qxiNWtYyzrWs4GNbGIzW9jKNn7gR37iZ7azg53sYjd72Msv/Bo6oRNRZx/7OcBBDnGYIxzlGMc5wUlOcZoznOUcv/E75/mDP/mLC1zkUuiETkSdv/mHy1zhKtf4l/+4zg1ucovb3OEu97jPAx7yiMc8Gc1jiE0c4saETuhE04lHfBKQkEQ8xdMkJgnPkJRkJCcFKUlFap7lOZ4nDWl5gXSkJ0PohE5EnRfJSCYy8xJZyEo2svMyr5CDV8lJLnKTh7zk4zXyU4CCvM4bFAqd0ImoU5giFKUYxSlBSUpRmjKUpRzlqcCbVKQSlalCVapRnbeoQU3eDp3QiajzDu/yHrWozft8QB3qUo/6NKAhjfiQxjShKc1ozke0oCWtaE2b0AmdiDpt+Zh2fEJ7OtCRTnSmC13pRnd60JNe9KYPffmUz/icfvRnAANDJ3Qi6gxiMEMYyjCGM4KRjGI0XzCGLxnLOMYzgYlMYjJTmMo0pjODmaETOhF1vmIWs5nDXOYxn69ZwEIWsZhvWMJSlrGcFXzLd3zPSlaxmjWsDZ3QiaizjvVsYCOb2MwWtrKNH/iRn/iZ7exgJ7vYzR728gu/so/9HOBg6IRORJ1DHOYIRznGcU5wklOc5gxnOcdv/M55/uBP/uICF7nE3/zDZa6ETuhE1LnKNf7lP65zg5vc4jZ3uMs97vOAhzziMU8ONDHEJg5xiUd8EpAwduiETjSd/wF7x+8p
+  </data>
+ </layer>
+ <layer name="mask" width="180" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt2UsKgDAQBNHgLve/sLhzIeInmsnkFdRGFMaeVgTrUkolJ3Wj9wzkW6/0+Owcz0F/7aBNDneunyHzGe4xYr5Hx+/uokWX7f+b/VJ+comhLEnyf6O+e/dztfgW5/P8R5khwsxkNIGR0WdkQp+RCX1GJvQZmdBnZEKfkQl9Rib0GZno/f+G/MIV6SFVgw==
+  </data>
+ </layer>
+</map>

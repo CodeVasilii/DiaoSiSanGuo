@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="108" height="20" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="1000" tilewidth="40" tileheight="40">
+  <image source="1000.png" width="40" height="40"/>
+ </tileset>
+ <tileset firstgid="2" name="1070100" tilewidth="40" tileheight="40">
+  <image source="1070100.jpg" width="1040" height="800"/>
+ </tileset>
+ <tileset firstgid="522" name="2000" tilewidth="40" tileheight="40">
+  <image source="2000.png" width="40" height="40"/>
+ </tileset>
+ <layer name="floor1" width="108" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt2dXWUAUUhVH46ZCQBqVEKaUbaZCSRsCiu0FS6VZAQkrpTkkBCenu7m4BpVHa6TucyzPGnjf75nuAFREpUqQoRCUa0YlBTGIRmzjE5S3iEZ8EJORtEpGYJCQlGclJQUpSERF2Aum8w7ukJg1pSUd63iMD7/MBGclEZrKQlQ/5iGxkJwc5yUVu8pA37ATWyUd+ClCQQhTmY4pQlGIUpwQlKUVpyvAJZSlHeSpQkU+pRGWqhJ3AOlWpRnVqUJPPqEVt6vA5X/AlX/E1dalHfRrQkEY0pglNaUZzWoSdwDotaUVr2tCWdrSnAx35hk50pgtd6UZ3vuU7etCTXvSmD33pR/+wE1hnAAMZxGCG8D0/MJRhDOdHRjCSUYzmJ8YwlnGMZwI/8wsTmcTksBNYZwpTmcZ0ZjCTWcxmDnOZx3wWsJBF/MpilrCUZSxnBb+xklWsDjuBdX5nDWtZx3r+YAMb2cRmtrCVbWxnBzvZxW72sJd97OcABznE4bATWOcIRznGcU5wklOc5gxnOcd5LnCRS1zmCle5xnVucJNb/Mlt7oSdwDp3+Yu/ucd9HvCQRzzmCU/5h395xnNe8JJXvOYNkSI7IohCVKJFDjtBdaL7xSAmsYhNHOLyFvGITwIS8jaJSEwSkpKM5KQgJal4h3dJTZrIYSeoTlrSkZ73yMD7fEBGMpGZLGTlQz4iG9nJQU5ykZs85CUf+SlAwbATWKcQhfmYIhSlGMUpQUlKUZoyfEJZylGeClTkUypRmSpUpRrVqRF2AuvU5DNqUZs6fM4XfMlXfE1d6lGfBjSkEY1pQlOa0ZwWtKQVrWkTdgLrtKUd7elAR76hE53pQle60Z1v+Y4e9KQXvelDX/rRnwEMZBCDw05gnSF8zw8MZRjD+ZERjGQUo/mJMYxlHOOZwM/8wkQmMZkpTGUa08NOYJ0ZzGQWs5nDXOYxnwUsZBG/spglLGUZy1nBb6xkFav5nTWsZV3YCayznj/YwEY2sZktbGUb29nBTnaxmz3sZR/7OcBBDnGYIxzlGMfDTmCdE5zkFKc5w1nOcZ4LXOQSl7nCVa5xnRvc5BZ/cps73OUv/uZe2Amsc58HPOQRj3nCU/7hX57xnBe85BWvecP/g3VkIohCVKIRnRjEJFZE2Amq8x9L5iet
+  </data>
+ </layer>
+ <layer name="mask" width="108" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt18EJwCAQBVHxaP8Fh5SgJujXNzB32VkWbLWURnb6svoNp2mmZsDvtVN3+0d/O0WSezhzj93y88Xe6JWFXlnolYVeWeiVhV5Z6JWFXlms/p9zzAedNDkB
+  </data>
+ </layer>
+</map>
