@@ -16,15 +16,18 @@ bool AppDelegate::applicationDidFinishLaunching() {
     auto director = Director::getInstance();
     auto glview = director->getOpenGLView();
     if(!glview) {
-        glview = GLView::create("My Game");
-        director->setOpenGLView(glview);
+        glview = GLView::create("DiaoSiSanGuo");
+		director->setOpenGLView(glview);
+
+		glview->setFrameSize(1366,768);
+		glview->setDesignResolutionSize(1366,768,ResolutionPolicy::SHOW_ALL);
     }
 
     // turn on display FPS
     director->setDisplayStats(true);
 
     // set FPS. the default value is 1.0/60 if you don't call this
-    director->setAnimationInterval(1.0 / 60);
+    director->setAnimationInterval(1.0 / 30);
 
     // create a scene. it's an autorelease object
     auto scene = HelloWorld::createScene();
